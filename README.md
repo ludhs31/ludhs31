@@ -11,3 +11,5 @@ ludhs31/ludhs31 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![](link)
+A palavra **limão** deve ser destacada.
+> Escrito por Alura Start
